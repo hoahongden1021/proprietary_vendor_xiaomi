@@ -46,6 +46,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/gemini/proprietary/vendor/lib/libSonyIMX298PdafLibrary.so:system/vendor/lib/libSonyIMX298PdafLibrary.so \
     vendor/xiaomi/gemini/proprietary/vendor/lib/libactuator_ak7348.so:system/vendor/lib/libactuator_ak7348.so \
     vendor/xiaomi/gemini/proprietary/vendor/lib/libactuator_ak7371.so:system/vendor/lib/libactuator_ak7371.so \
+    vendor/xiaomi/gemini/proprietary/vendor/lib/libaptX-1.0.0-rel-Android21-ARMv7A.so:system/vendor/lib/libaptX-1.0.0-rel-Android21-ARMv7A.so \
+    vendor/xiaomi/gemini/proprietary/vendor/lib/libaptXHD-1.0.0-rel-Android21-ARMv7A.so:system/vendor/lib/libaptXHD-1.0.0-rel-Android21-ARMv7A.so \
+    vendor/xiaomi/gemini/proprietary/vendor/lib/libaptXScheduler.so:system/vendor/lib/libaptXScheduler.so \
     vendor/xiaomi/gemini/proprietary/vendor/lib/libchromatix_imx298_liteon_4K_preview.so:system/vendor/lib/libchromatix_imx298_liteon_4K_preview.so \
     vendor/xiaomi/gemini/proprietary/vendor/lib/libchromatix_imx298_liteon_4K_video.so:system/vendor/lib/libchromatix_imx298_liteon_4K_video.so \
     vendor/xiaomi/gemini/proprietary/vendor/lib/libchromatix_imx298_liteon_common.so:system/vendor/lib/libchromatix_imx298_liteon_common.so \
